@@ -4,9 +4,7 @@
 
 ---
 
-## 🚀 Quick Links
-- 📫 **Reach me:** [neshabinesh2008@gmail.com](neshabinesh2008@gmail.com)
-- 🌐 **Portfolio / GitHub Pages:** [https://abinesh-yt.github.io](https://abinesh-yt.github.io)
+
 
 ---
 
