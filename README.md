@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Quick Links
-- 📫 **Reach me:** [your.email@example.com](neshabinesh2008@gmail.com)
-- 🌐 **Portfolio / GitHub Pages:** [your-username.github.io](https://abinesh-yt.github.io)
+- 📫 **Reach me:** [neshabinesh2008@gmail.com](neshabinesh2008@gmail.com)
+- 🌐 **Portfolio / GitHub Pages:** [abinesh-yt.github.io](https://abinesh-yt.github.io)
 
 ---
 
